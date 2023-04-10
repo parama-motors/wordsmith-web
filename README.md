@@ -1,2 +1,2 @@
-# wordsmith-db
+# wordsmith-web
 demo
